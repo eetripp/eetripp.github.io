@@ -1,3 +1,9 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+# Site settings
+title: Homepage
+author:
+  name: Erin Tripp
+  email: your-email@domain.com
+description: Testing github pages
+
+
+remote_theme: jekyll/minima
