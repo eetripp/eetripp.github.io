@@ -1,12 +1,12 @@
 # Site settings
-title: Homepage
-author:
-  name: Erin Tripp
-  email: your-email@domain.com
-description: Testing github pages
+# title: Homepage
+# author:
+#   name: Erin Tripp
+#   email: your-email@domain.com
+# description: Testing github pages
 
 
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 # Welcome to Jekyll!
 #
