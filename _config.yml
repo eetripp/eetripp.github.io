@@ -1,4 +1,4 @@
-title: "Erin Tripp"
+title: "Erin E. Tripp"
 description: "Assistant Professor of Mathematics and Statistics, Hamilton College"
 url: "https://eetripp.github.io"
 baseurl: ""
@@ -11,9 +11,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-author:
-  name: "Erin Tripp"
-  email: "etripp@hamilton.edu"
+
+author: "Erin Tripp"
+email: "etripp@hamilton.edu"
 
 header_pages:
 - index.md
