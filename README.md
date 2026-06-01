@@ -1,2 +1,2 @@
-
-see erintripp.xyz for current homepage 
+# etripp.github.io
+Erin Tripp Website
